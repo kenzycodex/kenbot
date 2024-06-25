@@ -1,0 +1,1199 @@
+2024-06-17 02:05:51,596 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:05:51,601 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:05:51,629 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:05:59,193 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:05:59,203 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:06:10,407 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:06:10,995 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:06:18,000 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:06:18,010 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:07:38,622 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:07:39,231 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:07:48,291 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:07:48,303 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:07:55,464 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:07:55,930 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:09:07,759 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:09:07,760 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:09:07,763 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:09:15,044 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:09:15,057 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:14:46,051 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:14:46] "[33mGET /KenBot1/login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:14:53,109 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:14:53] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 02:14:54,224 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:14:54] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 02:16:46,496 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:16:46,498 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:16:46,500 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:16:51,282 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:16:51,289 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:17:34,214 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:17:34] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:17:46,613 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:17:46] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:18:12,804 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:18:12] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 02:18:16,823 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:18:16] "[33mGET / HTTP/1.1[0m" 404 -
+2024-06-17 02:18:37,358 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:18:37] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:21:59,837 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:22:00,509 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:33:26,852 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:33:26,852 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:33:26,853 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:33:26,853 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:33:26,855 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:33:26,855 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:33:34,032 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:33:34,032 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:33:34,047 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:33:34,047 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:33:43,284 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:33:43] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:33:43,284 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:33:43] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:34:43,550 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:34:43] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:34:43,550 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:34:43] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:38:19,910 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:38:19] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:38:19,910 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:38:19] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:38:56,051 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:38:56] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:38:56,051 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:38:56] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:39:52,127 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:39:52,127 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:39:52,128 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:39:52,128 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:39:52,131 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:39:52,131 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:39:57,129 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:39:57,129 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:39:57,143 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:39:57,143 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:39:57,173 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:39:57] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:39:57,173 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:39:57] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:42:14,904 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:42:14,904 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:42:15,273 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:42:15,273 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:42:21,755 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:42:21,755 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:42:21,762 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:42:21,762 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:42:47,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:42:47,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:42:47,499 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:42:47,499 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:42:53,609 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:42:53,609 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:42:53,619 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:42:53,619 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:42:53,947 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:42:53] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:42:53,947 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:42:53] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:14,417 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:43:14,417 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:43:14,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:43:14,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:43:14,420 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:43:14,420 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:43:20,061 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:43:20,061 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:43:20,074 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:43:20,074 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:43:20,115 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:20] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:20,115 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:20] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:20,393 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:20] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:20,393 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:20] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:24,817 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:24] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:24,817 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:24] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:28,373 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:28] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:43:28,373 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:43:28] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:33,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:44:33,001 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:44:33,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:44:33,002 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:44:33,005 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:44:33,005 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:44:38,840 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:44:38,840 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:44:38,849 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:44:38,849 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:44:38,881 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:38] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:38,881 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:38] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:39,143 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:39] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:39,143 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:39] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:54,150 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:54] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:44:54,150 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:44:54] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:45:14,388 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:45:14,388 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:45:15,201 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:45:15,201 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:45:22,621 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:45:22,621 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:45:22,635 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:45:22,635 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:45:22,993 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:45:22] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:45:22,993 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:45:22] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:49:39,998 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:49:39,998 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:49:40,550 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:49:40,550 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:49:46,355 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:49:46,355 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:49:46,364 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:49:46,364 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:49:46,717 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:49:46] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:49:46,717 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:49:46] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:49:58,541 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:49:58,541 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:49:58,914 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:49:58,914 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:50:04,861 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:50:04,861 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:50:04,870 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:50:04,870 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:50:21,103 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:50:21,103 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:50:21,660 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:50:21,660 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:50:27,359 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:50:27,359 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:50:27,370 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:50:27,370 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:51:23,181 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:51:23,181 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 02:51:23,597 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:51:23,597 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:57:50,192 - root - DEBUG - Requested URL path: /login.html
+2024-06-17 02:57:50,192 - root - DEBUG - Requested URL path: /login.html
+2024-06-17 02:57:50,196 - root - DEBUG - Resolved file path: ./login.html
+2024-06-17 02:57:50,196 - root - DEBUG - Resolved file path: ./login.html
+2024-06-17 02:57:50,350 - root - DEBUG - Requested URL path: /login.html
+2024-06-17 02:57:50,350 - root - DEBUG - Requested URL path: /login.html
+2024-06-17 02:57:50,351 - root - DEBUG - Resolved file path: ./login.html
+2024-06-17 02:57:50,351 - root - DEBUG - Resolved file path: ./login.html
+2024-06-17 02:57:50,418 - root - DEBUG - Requested URL path: /login.css
+2024-06-17 02:57:50,418 - root - DEBUG - Requested URL path: /login.css
+2024-06-17 02:57:50,419 - root - DEBUG - Resolved file path: ./login.css
+2024-06-17 02:57:50,419 - root - DEBUG - Resolved file path: ./login.css
+2024-06-17 02:57:50,424 - root - DEBUG - Requested URL path: /login.js
+2024-06-17 02:57:50,424 - root - DEBUG - Requested URL path: /login.js
+2024-06-17 02:57:50,429 - root - DEBUG - Resolved file path: ./login.js
+2024-06-17 02:57:50,429 - root - DEBUG - Resolved file path: ./login.js
+2024-06-17 02:59:42,947 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:59:42,947 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 02:59:42,951 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:59:42,951 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 02:59:42,955 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:59:42,955 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 02:59:48,979 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:59:48,979 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 02:59:48,996 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:59:48,996 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 02:59:49,046 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:59:49,050 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:59:49,046 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:59:49,050 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:59:49,352 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 02:59:49,352 - werkzeug - INFO - 127.0.0.1 - - [17/Jun/2024 02:59:49] "[33mGET /login.html HTTP/1.1[0m" 404 -
+2024-06-17 03:00:05,262 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:00:05,262 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:00:06,342 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:00:06,342 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:00:16,264 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:00:16,264 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:00:16,276 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:00:16,276 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:00:19,348 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:00:19,348 - werkzeug - INFO -  * Detected change in 'c:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:00:19,729 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:00:19,729 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:07:04,270 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:07:04,270 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:07:22,006 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:07:22,006 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:07:22,007 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:07:22,007 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:07:22,203 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:07:22,203 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:07:22,205 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:07:22,205 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:07:22,315 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:07:22,315 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:07:22,317 - root - DEBUG - Resolved file path: ./signup.css
+2024-06-17 03:07:22,317 - root - DEBUG - Resolved file path: ./signup.css
+2024-06-17 03:07:22,329 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:07:22,329 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:07:22,335 - root - DEBUG - Resolved file path: ./signup.js
+2024-06-17 03:07:22,335 - root - DEBUG - Resolved file path: ./signup.js
+2024-06-17 03:07:22,347 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:07:22,347 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:07:22,367 - root - DEBUG - Resolved file path: ./default-avatar.png
+2024-06-17 03:07:22,367 - root - DEBUG - Resolved file path: ./default-avatar.png
+2024-06-17 03:07:22,369 - root - ERROR - File not found: ./default-avatar.png
+2024-06-17 03:07:22,369 - root - ERROR - File not found: ./default-avatar.png
+2024-06-17 03:13:38,063 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:13:38,063 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:13:38,067 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:13:38,067 - root - DEBUG - Resolved file path: ./signup.html
+2024-06-17 03:13:38,134 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:13:38,134 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:13:38,136 - root - DEBUG - Resolved file path: ./signup.css
+2024-06-17 03:13:38,136 - root - DEBUG - Resolved file path: ./signup.css
+2024-06-17 03:13:38,142 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:13:38,142 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:13:38,145 - root - DEBUG - Resolved file path: ./default-avatar.png
+2024-06-17 03:13:38,145 - root - DEBUG - Resolved file path: ./default-avatar.png
+2024-06-17 03:13:38,146 - root - ERROR - File not found: ./default-avatar.png
+2024-06-17 03:13:38,146 - root - ERROR - File not found: ./default-avatar.png
+2024-06-17 03:13:38,150 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:13:38,150 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:13:38,151 - root - DEBUG - Resolved file path: ./signup.js
+2024-06-17 03:13:38,151 - root - DEBUG - Resolved file path: ./signup.js
+2024-06-17 03:14:36,919 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:14:36,919 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:14:41,974 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:14:41,974 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:14:41,975 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:14:41,975 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:14:42,169 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:14:42,169 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:14:42,171 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:14:42,171 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:14:42,260 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:14:42,260 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:14:42,266 - root - DEBUG - Resolved file path: .\signup.css
+2024-06-17 03:14:42,266 - root - DEBUG - Resolved file path: .\signup.css
+2024-06-17 03:14:42,271 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:14:42,271 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:14:42,277 - root - DEBUG - Resolved file path: .\default-avatar.png
+2024-06-17 03:14:42,277 - root - DEBUG - Resolved file path: .\default-avatar.png
+2024-06-17 03:14:42,285 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:14:42,285 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:14:42,291 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:14:42,291 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:14:42,301 - root - DEBUG - Resolved file path: .\signup.js
+2024-06-17 03:14:42,301 - root - DEBUG - Resolved file path: .\signup.js
+2024-06-17 03:17:25,646 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:17:25,646 - root - DEBUG - Requested URL path: /signup.html
+2024-06-17 03:17:25,648 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:17:25,648 - root - DEBUG - Resolved file path: .\signup.html
+2024-06-17 03:17:25,709 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:17:25,709 - root - DEBUG - Requested URL path: /signup.css
+2024-06-17 03:17:25,710 - root - DEBUG - Resolved file path: .\signup.css
+2024-06-17 03:17:25,710 - root - DEBUG - Resolved file path: .\signup.css
+2024-06-17 03:17:25,714 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:17:25,714 - root - DEBUG - Requested URL path: /default-avatar.png
+2024-06-17 03:17:25,716 - root - DEBUG - Resolved file path: .\default-avatar.png
+2024-06-17 03:17:25,716 - root - DEBUG - Resolved file path: .\default-avatar.png
+2024-06-17 03:17:25,719 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:17:25,719 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:17:25,724 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:17:25,724 - root - DEBUG - Requested URL path: /signup.js
+2024-06-17 03:17:25,726 - root - DEBUG - Resolved file path: .\signup.js
+2024-06-17 03:17:25,726 - root - DEBUG - Resolved file path: .\signup.js
+2024-06-17 03:17:50,906 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:17:50,906 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:18:00,509 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:18:00,509 - root - ERROR - File not found: .\default-avatar.png
+2024-06-17 03:20:17,007 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:20:17,007 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:27:56,545 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:27:56,545 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:27:57,393 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 03:27:57,393 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5500
+2024-06-17 03:27:57,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 03:27:57,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-06-17 03:27:57,397 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:27:57,397 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:28:05,060 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:28:05,060 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:28:05,851 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:28:05,851 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:28:05,865 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:28:05,865 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:31:58,812 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:31:58,812 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:31:58,815 - root - INFO - Server has stopped.
+2024-06-17 03:31:58,815 - root - INFO - Server has stopped.
+2024-06-17 03:31:59,335 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:31:59,335 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:32:07,809 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:32:07,809 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:32:07,826 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:32:07,826 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:32:07,839 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:32:07,839 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:33:12,930 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:33:12,930 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:33:12,933 - root - INFO - Server has stopped.
+2024-06-17 03:33:12,933 - root - INFO - Server has stopped.
+2024-06-17 03:33:13,593 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:33:13,593 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:33:22,196 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:33:22,196 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:33:22,938 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:33:22,938 - werkzeug - WARNING -  * Debugger is active!
+2024-06-17 03:33:22,950 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:33:22,950 - werkzeug - INFO -  * Debugger PIN: 131-634-026
+2024-06-17 03:33:45,374 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:33:45,374 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adewalemichael\\Documents\\KENZY LEARN\\chatbot\\CHATBOT\\KenBot1\\app.py', reloading
+2024-06-17 03:33:45,409 - root - INFO - Server has stopped.
+2024-06-17 03:33:45,409 - root - INFO - Server has stopped.
+2024-06-17 03:33:45,975 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:33:45,975 - werkzeug - INFO -  * Restarting with stat
+2024-06-17 03:33:54,405 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:33:54,405 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:37:37,989 - root - INFO - Server has stopped.
+2024-06-17 03:37:50,175 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:37:50,175 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:38:56,675 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:38:56,675 - root - INFO - Server running at http://127.0.0.1:5500/
+2024-06-17 03:38:56,682 - root - INFO - Server has stopped.
+2024-06-17 03:38:56,682 - root - INFO - Server has stopped.
+2024-06-17 04:15:49,595 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 04:15:50,349 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=Eplain%20software%20engineering&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 04:15:50,354 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): softwareengineering.stackexchange.com:443
+2024-06-17 04:15:50,944 - urllib3.connectionpool - DEBUG - https://softwareengineering.stackexchange.com:443 "GET /questions/104009/i-have-a-hard-time-explaining-what-i-learn HTTP/1.1" 200 None
+2024-06-17 04:15:51,090 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 04:15:51,195 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 04:15:52,928 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /posts/kentbeck_25-years-of-trying-to-explain-software-development-activity-6869343385417867264-tvlT HTTP/1.1" 200 26579
+2024-06-17 04:15:53,107 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 04:15:53,226 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 04:15:53,901 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/webdev/comments/ritap1/software_engineers_how_would_you_explain_what_we/ HTTP/1.1" 302 406
+2024-06-17 04:15:53,911 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 04:15:54,484 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/webdev/comments/ritap1/software_engineers_how_would_you_explain_what_we/?rdt=45895 HTTP/1.1" 200 None
+2024-06-17 04:15:54,732 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 04:15:54,856 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): softwareengineering.stackexchange.com:443
+2024-06-17 04:15:55,220 - urllib3.connectionpool - DEBUG - https://softwareengineering.stackexchange.com:443 "GET /questions/426890/how-to-explain-a-software-bug-to-a-child HTTP/1.1" 200 None
+2024-06-17 04:15:55,279 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 04:15:55,371 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 04:15:56,154 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /As-a-software-engineer-how-do-you-explain-your-work-to-your-parents-and-grandparents HTTP/1.1" 200 None
+2024-06-17 04:15:57,416 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.ucl.ac.uk:443
+2024-06-17 04:15:58,774 - urllib3.connectionpool - DEBUG - https://www.ucl.ac.uk:443 "GET /medical-physics-biomedical-engineering/case-studies/2018/oct/explaining-software-engineering-5-year-olds HTTP/1.1" 200 None
+2024-06-17 04:15:58,820 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cseducators.stackexchange.com:443
+2024-06-17 04:15:59,190 - urllib3.connectionpool - DEBUG - https://cseducators.stackexchange.com:443 "GET /questions/868/how-to-explain-what-code-is-to-my-parents HTTP/1.1" 200 None
+2024-06-17 04:15:59,319 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 04:15:59,547 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 04:16:00,134 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /Im-a-software-developer-How-can-I-explain-to-my-grandmother-what-I-do HTTP/1.1" 200 None
+2024-06-17 04:16:02,016 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): spectrum.ieee.org:443
+2024-06-17 04:16:03,246 - urllib3.connectionpool - DEBUG - https://spectrum.ieee.org:443 "GET /software-salaries-2023 HTTP/1.1" 200 111595
+2024-06-17 04:16:03,630 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 04:16:04,197 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /Programmers-can-you-explain-your-job-to-a-5-year-old HTTP/1.1" 200 None
+2024-06-17 06:06:35,495 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:06:49,253 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2024-06-17 06:10:03,013 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:10:03,895 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=the%20link%20to%20whatsapp%20website&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:10:03,903 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): faq.whatsapp.com:443
+2024-06-17 06:10:04,290 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /5913398998672934 HTTP/1.1" 200 None
+2024-06-17 06:10:04,690 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 06:10:04,710 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.whatsapp.com:443
+2024-06-17 06:10:04,967 - urllib3.connectionpool - DEBUG - https://web.whatsapp.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 06:10:05,020 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:10:05,030 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): faq.whatsapp.com:443
+2024-06-17 06:10:05,331 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /1317564962315842/?locale=en_US&cms_platform=web HTTP/1.1" 200 None
+2024-06-17 06:10:05,741 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 06:10:05,758 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): create.wa.link:443
+2024-06-17 06:10:06,282 - urllib3.connectionpool - DEBUG - https://create.wa.link:443 "GET / HTTP/1.1" 200 None
+2024-06-17 06:10:06,357 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): superuser.com:443
+2024-06-17 06:10:06,843 - urllib3.connectionpool - DEBUG - https://superuser.com:443 "GET /questions/1570644/launch-whatsapp-web-from-url HTTP/1.1" 200 None
+2024-06-17 06:10:06,910 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:10:06,985 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.squarespace.com:443
+2024-06-17 06:10:08,336 - urllib3.connectionpool - DEBUG - https://forum.squarespace.com:443 "GET /topic/160133-my-template-does-not-enable-picture-preview-of-site-shared-on-whatsapp/ HTTP/1.1" 200 29980
+2024-06-17 06:10:08,516 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:10:08,971 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/qctab6/whatsapp_web_client_doesnt_generate_a/ HTTP/1.1" 302 405
+2024-06-17 06:10:08,975 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:10:09,793 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/qctab6/whatsapp_web_client_doesnt_generate_a/?rdt=41197 HTTP/1.1" 200 None
+2024-06-17 06:10:10,076 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:10:10,198 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.userlike.com:443
+2024-06-17 06:10:10,790 - urllib3.connectionpool - DEBUG - https://www.userlike.com:443 "GET /en/blog/integrate-whatsapp-in-website HTTP/1.1" 200 51689
+2024-06-17 06:10:10,852 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:10:11,345 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/15tgoau/cant_post_links_anymore_using_whatsapp_web/ HTTP/1.1" 302 407
+2024-06-17 06:10:11,348 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:10:11,946 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/15tgoau/cant_post_links_anymore_using_whatsapp_web/?rdt=43626 HTTP/1.1" 200 None
+2024-06-17 06:10:12,237 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:10:12,366 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.squarespace.com:443
+2024-06-17 06:10:12,932 - urllib3.connectionpool - DEBUG - https://forum.squarespace.com:443 "GET /topic/202880-whatsapp-on-squarespace-sites/ HTTP/1.1" 200 45496
+2024-06-17 06:12:00,492 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:12:01,227 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20lol&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:12:01,238 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 06:12:01,826 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 06:12:02,426 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.prusa3d.com:443
+2024-06-17 06:12:04,471 - urllib3.connectionpool - DEBUG - https://forum.prusa3d.com:443 "GET /forum/original-prusa-xl-tool-changer-general-discussion-announcements-and-releases/prusa-xl-build-thread-two-head-version/paged/3/ HTTP/1.1" 200 None
+2024-06-17 06:12:04,622 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:05,136 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/ HTTP/1.1" 302 406
+2024-06-17 06:12:05,145 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:05,742 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/?rdt=33232 HTTP/1.1" 200 None
+2024-06-17 06:12:05,996 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:06,172 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 06:12:06,741 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 06:12:07,279 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:07,771 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/ HTTP/1.1" 302 406
+2024-06-17 06:12:07,783 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:08,659 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/?rdt=53703 HTTP/1.1" 200 None
+2024-06-17 06:12:08,975 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:09,109 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pkdcure.org:443
+2024-06-17 06:12:10,228 - urllib3.connectionpool - DEBUG - https://pkdcure.org:443 "GET /body-image-and-a-pkd-belly/ HTTP/1.1" 403 146
+2024-06-17 06:12:10,240 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:10,684 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 405
+2024-06-17 06:12:10,687 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:11,260 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=65121 HTTP/1.1" 200 None
+2024-06-17 06:12:11,532 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:11,666 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 06:12:11,909 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/ HTTP/1.1" 302 0
+2024-06-17 06:12:11,916 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 06:12:12,201 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 06:12:12,263 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 06:12:12,274 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:12,720 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/ HTTP/1.1" 302 406
+2024-06-17 06:12:12,731 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:13,279 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/?rdt=37807 HTTP/1.1" 200 None
+2024-06-17 06:12:13,530 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:13,668 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): talk.collegeconfidential.com:443
+2024-06-17 06:12:14,927 - urllib3.connectionpool - DEBUG - https://talk.collegeconfidential.com:443 "GET /t/stanford-class-of-2028-official-thread/3655051 HTTP/1.1" 200 None
+2024-06-17 06:12:15,083 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:12:15,681 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20lol&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:12:15,692 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 06:12:16,279 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 06:12:18,751 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.prusa3d.com:443
+2024-06-17 06:12:19,986 - urllib3.connectionpool - DEBUG - https://forum.prusa3d.com:443 "GET /forum/original-prusa-xl-tool-changer-general-discussion-announcements-and-releases/prusa-xl-build-thread-two-head-version/paged/3/ HTTP/1.1" 200 None
+2024-06-17 06:12:20,113 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:20,579 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/ HTTP/1.1" 302 408
+2024-06-17 06:12:20,581 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:21,171 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/?rdt=38016 HTTP/1.1" 200 None
+2024-06-17 06:12:21,465 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:21,587 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 06:12:22,105 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 06:12:22,630 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:23,080 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/ HTTP/1.1" 302 406
+2024-06-17 06:12:23,092 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:23,669 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/?rdt=51539 HTTP/1.1" 200 None
+2024-06-17 06:12:23,870 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:24,027 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pkdcure.org:443
+2024-06-17 06:12:25,042 - urllib3.connectionpool - DEBUG - https://pkdcure.org:443 "GET /body-image-and-a-pkd-belly/ HTTP/1.1" 403 146
+2024-06-17 06:12:25,058 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:25,539 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 405
+2024-06-17 06:12:25,547 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:26,437 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=45138 HTTP/1.1" 200 None
+2024-06-17 06:12:26,713 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:26,845 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 06:12:27,101 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/ HTTP/1.1" 302 0
+2024-06-17 06:12:27,107 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 06:12:27,400 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 06:12:27,457 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 06:12:27,471 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:12:27,955 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/ HTTP/1.1" 302 405
+2024-06-17 06:12:27,959 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:12:28,599 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/?rdt=52000 HTTP/1.1" 200 None
+2024-06-17 06:12:28,838 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:29,021 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): talk.collegeconfidential.com:443
+2024-06-17 06:12:29,937 - urllib3.connectionpool - DEBUG - https://talk.collegeconfidential.com:443 "GET /t/stanford-class-of-2028-official-thread/3655051 HTTP/1.1" 200 None
+2024-06-17 06:12:39,391 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:12:40,006 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20are%20you&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:12:40,019 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:12:40,392 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=PNbBDrceCy8 HTTP/1.1" 200 None
+2024-06-17 06:12:40,819 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:40,845 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 06:12:41,362 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Who_Are_You HTTP/1.1" 200 None
+2024-06-17 06:12:41,760 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:12:42,102 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=LYb_nqU_43w HTTP/1.1" 200 None
+2024-06-17 06:12:42,591 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:42,619 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 06:12:43,711 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /pulse/how-do-we-answer-question-who-you-from-personal-level-robert-liu HTTP/1.1" 200 22403
+2024-06-17 06:12:43,903 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:43,979 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:12:44,333 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=GWGbOjlJDkU HTTP/1.1" 200 None
+2024-06-17 06:12:44,749 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:44,793 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.thewho.com:443
+2024-06-17 06:12:47,074 - urllib3.connectionpool - DEBUG - https://www.thewho.com:443 "GET /music/who-are-you/ HTTP/1.1" 200 None
+2024-06-17 06:12:47,294 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): poets.org:443
+2024-06-17 06:12:48,267 - urllib3.connectionpool - DEBUG - https://poets.org:443 "GET /poem/im-nobody-who-are-you-260 HTTP/1.1" 200 None
+2024-06-17 06:12:48,489 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): medium.com:443
+2024-06-17 06:12:49,388 - urllib3.connectionpool - DEBUG - https://medium.com:443 "GET /@scott_36749/learning-how-to-answer-the-who-are-you-question-75d2fca749d8 HTTP/1.1" 200 None
+2024-06-17 06:12:49,455 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ell.stackexchange.com:443
+2024-06-17 06:12:50,589 - urllib3.connectionpool - DEBUG - https://ell.stackexchange.com:443 "GET /questions/71824/what-is-the-difference-between-what-are-you-and-who-are-you HTTP/1.1" 200 None
+2024-06-17 06:12:50,887 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:50,991 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.amazon.com:443
+2024-06-17 06:12:51,596 - urllib3.connectionpool - DEBUG - https://www.amazon.com:443 "GET /Who-Are-You/dp/B000002P2V HTTP/1.1" 200 279604
+2024-06-17 06:12:52,048 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:12:52,693 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=im%20me&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:12:52,708 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:12:53,038 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=O8A0uzl6EFM HTTP/1.1" 200 None
+2024-06-17 06:12:53,652 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:53,682 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ell.stackexchange.com:443
+2024-06-17 06:12:54,023 - urllib3.connectionpool - DEBUG - https://ell.stackexchange.com:443 "GET /questions/244862/can-i-say-please-im-me-as-i-say-please-pm-me HTTP/1.1" 200 None
+2024-06-17 06:12:54,063 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:54,147 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:12:54,469 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=x8d05ZGzwsM HTTP/1.1" 200 None
+2024-06-17 06:12:54,901 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:12:54,928 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): service.mattel.com:443
+2024-06-17 06:12:56,392 - urllib3.connectionpool - DEBUG - https://service.mattel.com:443 "GET /instruction_sheets/L7281%20Manual%20final.pdf HTTP/1.1" 200 1284085
+2024-06-17 06:12:58,646 - charset_normalizer - DEBUG - Encoding detection: Unable to determine any suitable charset.
+2024-06-17 06:12:58,862 - charset_normalizer - DEBUG - Encoding detection: Unable to determine any suitable charset.
+2024-06-17 06:12:58,875 - bs4.dammit - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2024-06-17 06:12:59,061 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 06:12:59,560 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/I%27m_Me HTTP/1.1" 200 21666
+2024-06-17 06:12:59,783 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): twitter.com:443
+2024-06-17 06:13:00,569 - urllib3.connectionpool - DEBUG - https://twitter.com:443 "GET /KDTrey5/status/15078221226?lang=en HTTP/1.1" 302 96
+2024-06-17 06:13:00,573 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): x.com:443
+2024-06-17 06:13:01,482 - urllib3.connectionpool - DEBUG - https://x.com:443 "GET /KDTrey5/status/15078221226?lang=en HTTP/1.1" 200 None
+2024-06-17 06:13:01,509 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): corporate.mattel.com:443
+2024-06-17 06:13:02,550 - urllib3.connectionpool - DEBUG - https://corporate.mattel.com:443 "GET /brand-portfolio/im-me HTTP/1.1" 200 None
+2024-06-17 06:13:02,931 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): hackaday.com:443
+2024-06-17 06:13:03,775 - urllib3.connectionpool - DEBUG - https://hackaday.com:443 "GET /tag/im-me/ HTTP/1.1" 200 None
+2024-06-17 06:13:03,974 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:13:04,466 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/hacking/comments/bzsf1c/what_is_an_alternative_device_to_the_mattel_im_me/ HTTP/1.1" 302 406
+2024-06-17 06:13:04,475 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:13:05,232 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/hacking/comments/bzsf1c/what_is_an_alternative_device_to_the_mattel_im_me/?rdt=63388 HTTP/1.1" 200 None
+2024-06-17 06:13:05,518 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:05,632 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 06:13:05,893 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /KevinDurant/posts/im-me-i-do-me-and-i-chillwhatever-you-do-just-do-you-be-your-own-person-you-can-/10150170925746655/ HTTP/1.1" 302 0
+2024-06-17 06:13:05,902 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 06:13:06,179 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /KevinDurant/posts/im-me-i-do-me-and-i-chillwhatever-you-do-just-do-you-be-your-own-person-you-can-/10150170925746655/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 06:13:06,243 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 06:13:06,326 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:13:06,942 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=that's%20us&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:13:06,950 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:07,296 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=6bXSNuMyEN4 HTTP/1.1" 200 None
+2024-06-17 06:13:07,793 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:07,821 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): genius.com:443
+2024-06-17 06:13:09,219 - urllib3.connectionpool - DEBUG - https://genius.com:443 "GET /Anson-seabra-thats-us-lyrics HTTP/1.1" 200 None
+2024-06-17 06:13:09,402 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:09,736 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=ji5fniRp11g HTTP/1.1" 200 None
+2024-06-17 06:13:10,222 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:10,250 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): open.spotify.com:443
+2024-06-17 06:13:10,893 - urllib3.connectionpool - DEBUG - https://open.spotify.com:443 "GET /album/4QryVcb7xtJxIrz8SI4hq3 HTTP/1.1" 200 None
+2024-06-17 06:13:10,933 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:11,251 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=6OUbakqakCE HTTP/1.1" 200 None
+2024-06-17 06:13:11,846 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:11,907 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:13:12,619 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/TaylorSwift/comments/yuqtme/carnations_you_had_thought_were_roses_thats_us/ HTTP/1.1" 302 406
+2024-06-17 06:13:12,623 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:13:13,642 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/TaylorSwift/comments/yuqtme/carnations_you_had_thought_were_roses_thats_us/?rdt=39377 HTTP/1.1" 200 None
+2024-06-17 06:13:13,912 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:14,032 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:14,462 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=1AcoOy25v0g HTTP/1.1" 200 None
+2024-06-17 06:13:14,934 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:14,962 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:13:15,690 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/gaming/comments/fuexb/tunnel_snakes_rule_were_the_tunnel_snakes_thats/ HTTP/1.1" 302 406
+2024-06-17 06:13:15,696 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:13:16,386 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/gaming/comments/fuexb/tunnel_snakes_rule_were_the_tunnel_snakes_thats/?rdt=49839 HTTP/1.1" 200 None
+2024-06-17 06:13:16,789 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:16,919 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): context.reverso.net:443
+2024-06-17 06:13:18,588 - urllib3.connectionpool - DEBUG - https://context.reverso.net:443 "GET /translation/english-polish/that%27s+us HTTP/1.1" 403 None
+2024-06-17 06:13:18,597 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:13:19,097 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GaylorSwift/comments/1aungqg/carnations_you_had_thought_were_roses_thats_us/ HTTP/1.1" 302 406
+2024-06-17 06:13:19,105 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:13:19,709 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GaylorSwift/comments/1aungqg/carnations_you_had_thought_were_roses_thats_us/?rdt=38652 HTTP/1.1" 200 None
+2024-06-17 06:13:19,946 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:20,134 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 06:13:20,714 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=ahhhh&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 06:13:20,724 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:21,108 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=FB4RX6UHK1M HTTP/1.1" 200 None
+2024-06-17 06:13:21,436 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:21,469 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): scubaboard.com:443
+2024-06-17 06:13:21,987 - urllib3.connectionpool - DEBUG - https://scubaboard.com:443 "GET /community/threads/making-a-cesa-ahhhh-sound.495802/ HTTP/1.1" 403 8481
+2024-06-17 06:13:22,008 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 06:13:22,386 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=ha070Ut5MR4 HTTP/1.1" 200 None
+2024-06-17 06:13:22,880 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:22,914 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 06:13:23,407 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/NameThatSong/comments/a8asvk/ahhh_oh_ah_ahhhh_sad_song_piano_man_singing/ HTTP/1.1" 302 405
+2024-06-17 06:13:23,420 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 06:13:23,999 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/NameThatSong/comments/a8asvk/ahhh_oh_ah_ahhhh_sad_song_piano_man_singing/?rdt=52668 HTTP/1.1" 200 None
+2024-06-17 06:13:24,268 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:24,403 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): jukebouncewerk.bandcamp.com:443
+2024-06-17 06:13:25,422 - urllib3.connectionpool - DEBUG - https://jukebouncewerk.bandcamp.com:443 "GET /track/dj-dylan-ahhhh HTTP/1.1" 200 None
+2024-06-17 06:13:25,594 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:25,783 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.canadensis.com:443
+2024-06-17 06:13:26,964 - urllib3.connectionpool - DEBUG - https://www.canadensis.com:443 "GET /ahhhh/ HTTP/1.1" 403 None
+2024-06-17 06:13:26,971 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 06:13:28,558 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /posts/ramsey-sargent_ahhhh-paris-in-springtime-well-fontainebleau-activity-7202349682176446464-5eXz HTTP/1.1" 200 28806
+2024-06-17 06:13:28,741 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 06:13:28,881 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.instagram.com:443
+2024-06-17 06:13:29,337 - urllib3.connectionpool - DEBUG - https://www.instagram.com:443 "GET /robbiecalvo/reel/Czy_X9lxzAz/ HTTP/1.1" 200 None
+2024-06-17 06:13:29,527 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): twitter.com:443
+2024-06-17 06:13:30,344 - urllib3.connectionpool - DEBUG - https://twitter.com:443 "GET /loonycrybaby/status/1748383339411575206 HTTP/1.1" 302 101
+2024-06-17 06:13:30,352 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): x.com:443
+2024-06-17 06:13:31,175 - urllib3.connectionpool - DEBUG - https://x.com:443 "GET /loonycrybaby/status/1748383339411575206 HTTP/1.1" 200 None
+2024-06-17 06:13:31,197 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.instagram.com:443
+2024-06-17 06:13:31,707 - urllib3.connectionpool - DEBUG - https://www.instagram.com:443 "GET /mylkofficial/reel/C5_oEn1M7Ce/ HTTP/1.1" 200 None
+2024-06-17 07:20:51,208 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 07:20:51,210 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 07:20:51,211 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 07:20:51,212 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 08:20:00,336 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 08:20:00,337 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 08:20:00,338 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 08:20:00,339 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 08:21:58,043 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:21:59,067 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20is%20elon%20musk&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:21:59,094 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 08:21:59,868 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Elon_Musk HTTP/1.1" 200 223377
+2024-06-17 08:22:02,284 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.britannica.com:443
+2024-06-17 08:22:03,195 - urllib3.connectionpool - DEBUG - https://www.britannica.com:443 "GET /money/Elon-Musk HTTP/1.1" 200 None
+2024-06-17 08:22:03,330 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-17 08:22:13,887 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.tesla.com:443
+2024-06-17 08:22:24,628 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): twitter.com:443
+2024-06-17 08:22:25,716 - urllib3.connectionpool - DEBUG - https://twitter.com:443 "GET /elonmusk HTTP/1.1" 302 70
+2024-06-17 08:22:25,728 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): x.com:443
+2024-06-17 08:22:26,751 - urllib3.connectionpool - DEBUG - https://x.com:443 "GET /elonmusk HTTP/1.1" 200 None
+2024-06-17 08:22:26,776 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bbc.com:443
+2024-06-17 08:22:27,947 - urllib3.connectionpool - DEBUG - https://www.bbc.com:443 "GET /news/business-61234231 HTTP/1.1" 200 46559
+2024-06-17 08:22:28,267 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-06-17 08:22:29,851 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /profile/elon-musk/ HTTP/1.1" 200 77491
+2024-06-17 08:22:30,210 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ir.tesla.com:443
+2024-06-17 08:22:31,818 - urllib3.connectionpool - DEBUG - https://ir.tesla.com:443 "GET /corporate/elon-musk HTTP/1.1" 200 158286
+2024-06-17 08:22:32,519 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-17 08:22:33,209 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=2BfMuHDfGJI HTTP/1.1" 200 None
+2024-06-17 08:22:33,841 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:22:33,875 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.wsj.com:443
+2024-06-17 08:22:35,120 - urllib3.connectionpool - DEBUG - https://www.wsj.com:443 "GET /topics/person/elon-musk HTTP/1.1" 403 775827
+2024-06-17 08:34:24,035 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 08:34:24,036 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 08:34:24,037 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 08:34:24,038 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 08:43:21,161 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 08:43:21,162 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 08:43:21,162 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 08:43:21,163 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 08:43:28,749 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:43:29,745 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20cool&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:43:29,752 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:43:30,504 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GhostRecon/comments/fe86st/its_great_to_hear_were_getting_the_walker_and/ HTTP/1.1" 302 405
+2024-06-17 08:43:30,514 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:43:31,087 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GhostRecon/comments/fe86st/its_great_to_hear_were_getting_the_walker_and/?rdt=39966 HTTP/1.1" 200 None
+2024-06-17 08:43:31,401 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:43:31,518 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:32,399 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:43:32,785 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:43:33,256 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 408
+2024-06-17 08:43:33,281 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:43:33,915 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=43977 HTTP/1.1" 200 None
+2024-06-17 08:43:34,218 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:43:34,336 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:34,960 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-someone-who-says-%E2%80%9Cthats-awesome%E2%80%9D HTTP/1.1" 200 None
+2024-06-17 08:43:35,518 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.wordreference.com:443
+2024-06-17 08:43:36,916 - urllib3.connectionpool - DEBUG - https://forum.wordreference.com:443 "GET /threads/its-nice-to-hear-hearing-from-you.396287/ HTTP/1.1" 200 29267
+2024-06-17 08:43:37,046 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:37,660 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-can-we-reply-to-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:43:39,088 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): plandisney.disney.go.com:443
+2024-06-17 08:43:39,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:40,445 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-you-say-Im-glad-to-hear-that HTTP/1.1" 200 None
+2024-06-17 08:43:40,920 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dantepfer.com:443
+2024-06-17 08:43:42,570 - urllib3.connectionpool - DEBUG - https://dantepfer.com:443 "GET /blog/?p=277 HTTP/1.1" 200 None
+2024-06-17 08:43:43,349 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:43,907 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 08:43:56,835 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:43:57,397 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20lol&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:43:57,416 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:43:58,010 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:43:58,423 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.prusa3d.com:443
+2024-06-17 08:44:00,522 - urllib3.connectionpool - DEBUG - https://forum.prusa3d.com:443 "GET /forum/original-prusa-xl-tool-changer-general-discussion-announcements-and-releases/prusa-xl-build-thread-two-head-version/paged/3/ HTTP/1.1" 200 None
+2024-06-17 08:44:00,644 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:44:01,181 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/ HTTP/1.1" 302 406
+2024-06-17 08:44:01,192 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:44:01,841 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/?rdt=62935 HTTP/1.1" 200 None
+2024-06-17 08:44:02,169 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:44:02,269 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:44:02,939 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 08:44:03,360 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:44:03,802 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/ HTTP/1.1" 302 408
+2024-06-17 08:44:03,813 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:44:04,369 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/?rdt=53278 HTTP/1.1" 200 None
+2024-06-17 08:44:04,613 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:44:04,740 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pkdcure.org:443
+2024-06-17 08:44:06,306 - urllib3.connectionpool - DEBUG - https://pkdcure.org:443 "GET /body-image-and-a-pkd-belly/ HTTP/1.1" 403 146
+2024-06-17 08:44:06,315 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:44:06,782 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 406
+2024-06-17 08:44:06,793 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:44:07,398 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=37883 HTTP/1.1" 200 None
+2024-06-17 08:44:07,610 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:44:07,803 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 08:44:08,316 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/ HTTP/1.1" 302 0
+2024-06-17 08:44:08,321 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 08:44:08,840 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 08:44:08,963 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 08:44:08,980 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:44:09,482 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/ HTTP/1.1" 302 407
+2024-06-17 08:44:09,485 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:44:10,036 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/?rdt=40780 HTTP/1.1" 200 None
+2024-06-17 08:44:10,245 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:44:10,390 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): talk.collegeconfidential.com:443
+2024-06-17 08:44:11,795 - urllib3.connectionpool - DEBUG - https://talk.collegeconfidential.com:443 "GET /t/stanford-class-of-2028-official-thread/3655051 HTTP/1.1" 200 None
+2024-06-17 08:46:11,644 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:46:12,567 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20cool&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:46:12,574 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:46:13,099 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GhostRecon/comments/fe86st/its_great_to_hear_were_getting_the_walker_and/ HTTP/1.1" 302 405
+2024-06-17 08:46:13,104 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:46:13,688 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/GhostRecon/comments/fe86st/its_great_to_hear_were_getting_the_walker_and/?rdt=37468 HTTP/1.1" 200 None
+2024-06-17 08:46:13,959 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:46:14,083 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:46:14,889 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:46:15,445 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:46:15,916 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 406
+2024-06-17 08:46:15,928 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:46:16,559 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=42557 HTTP/1.1" 200 None
+2024-06-17 08:46:16,795 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:46:16,912 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:46:17,512 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-someone-who-says-%E2%80%9Cthats-awesome%E2%80%9D HTTP/1.1" 200 None
+2024-06-17 08:46:17,973 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.wordreference.com:443
+2024-06-17 08:46:19,159 - urllib3.connectionpool - DEBUG - https://forum.wordreference.com:443 "GET /threads/its-nice-to-hear-hearing-from-you.396287/ HTTP/1.1" 200 29335
+2024-06-17 08:46:19,303 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:46:19,925 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-can-we-reply-to-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:46:20,649 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): plandisney.disney.go.com:443
+2024-06-17 08:46:21,104 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:46:21,697 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-you-say-Im-glad-to-hear-that HTTP/1.1" 200 None
+2024-06-17 08:46:22,164 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): dantepfer.com:443
+2024-06-17 08:46:24,445 - urllib3.connectionpool - DEBUG - https://dantepfer.com:443 "GET /blog/?p=277 HTTP/1.1" 200 None
+2024-06-17 08:46:25,458 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:46:26,057 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 08:46:50,971 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:46:51,966 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=tell%20me%20about%20yourself&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:46:51,980 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.themuse.com:443
+2024-06-17 08:46:52,531 - urllib3.connectionpool - DEBUG - https://www.themuse.com:443 "GET /advice/tell-me-about-yourself-interview-question-answer-examples HTTP/1.1" 200 None
+2024-06-17 08:46:52,618 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.indeed.com:443
+2024-06-17 08:46:53,377 - urllib3.connectionpool - DEBUG - https://www.indeed.com:443 "GET /career-advice/interviewing/interview-question-tell-me-about-yourself HTTP/1.1" 403 None
+2024-06-17 08:46:53,395 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:46:53,876 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/ITCareerQuestions/comments/121ade2/how_do_you_answer_tell_me_about_yourself/ HTTP/1.1" 302 406
+2024-06-17 08:46:53,884 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:46:54,494 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/ITCareerQuestions/comments/121ade2/how_do_you_answer_tell_me_about_yourself/?rdt=61450 HTTP/1.1" 200 None
+2024-06-17 08:46:54,765 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:46:54,885 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): jeffhsipe.medium.com:443
+2024-06-17 08:46:55,741 - urllib3.connectionpool - DEBUG - https://jeffhsipe.medium.com:443 "GET /tell-me-about-yourself-a-different-approach-c9ce8e7d13f9 HTTP/1.1" 200 None
+2024-06-17 08:46:55,859 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 08:46:57,385 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /pulse/how-answer-question-tell-me-yourself-liz-ryan HTTP/1.1" 200 23969
+2024-06-17 08:46:57,555 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:46:57,632 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): awis.org:443
+2024-06-17 08:46:59,032 - urllib3.connectionpool - DEBUG - https://awis.org:443 "GET /resource/tell-me-about-yourself/ HTTP/1.1" 403 None
+2024-06-17 08:46:59,041 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 08:47:00,230 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /pulse/interviewing-tell-me-yourself-ed-zschau HTTP/1.1" 200 20910
+2024-06-17 08:47:00,412 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:47:00,498 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:47:01,262 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-is-an-example-of-tell-me-about-yourself-in-simple-terms HTTP/1.1" 200 None
+2024-06-17 08:47:01,775 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.preplounge.com:443
+2024-06-17 08:47:02,905 - urllib3.connectionpool - DEBUG - https://www.preplounge.com:443 "GET /en/consulting-forum/walk-me-through-your-resume-vs-tell-me-about-your-self-11323 HTTP/1.1" 200 23576
+2024-06-17 08:47:03,202 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-06-17 08:47:05,054 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /sites/jaysullivan/2017/02/02/responding-to-so-tell-me-about-yourself/ HTTP/1.1" 200 91668
+2024-06-17 08:47:09,106 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 08:47:09,858 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20tell%20me%20a%20joke&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 08:47:09,870 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): plandisney.disney.go.com:443
+2024-06-17 08:47:10,369 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 08:47:10,982 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 08:47:11,354 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): hearmeoutcc.com:443
+2024-06-17 08:47:12,609 - urllib3.connectionpool - DEBUG - https://hearmeoutcc.com:443 "GET /deaf-jokes/ HTTP/1.1" 200 None
+2024-06-17 08:47:12,853 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 08:47:13,506 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 406
+2024-06-17 08:47:13,517 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 08:47:14,130 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=37158 HTTP/1.1" 200 None
+2024-06-17 08:47:14,413 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:47:14,542 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): interpersonal.stackexchange.com:443
+2024-06-17 08:47:15,144 - urllib3.connectionpool - DEBUG - https://interpersonal.stackexchange.com:443 "GET /questions/10886/how-to-stop-dad-from-telling-the-same-jokes-again-and-again HTTP/1.1" 200 None
+2024-06-17 08:47:15,212 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 08:47:15,346 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.wordreference.com:443
+2024-06-17 08:47:16,516 - urllib3.connectionpool - DEBUG - https://forum.wordreference.com:443 "GET /threads/its-nice-to-hear-hearing-from-you.396287/ HTTP/1.1" 200 29337
+2024-06-17 08:47:16,676 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.rollinghillsasylum.com:443
+2024-06-17 08:47:18,733 - urllib3.connectionpool - DEBUG - https://www.rollinghillsasylum.com:443 "GET /testimonials HTTP/1.1" 200 None
+2024-06-17 08:47:19,086 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.evidentlycochrane.net:443
+2024-06-17 08:47:20,484 - urllib3.connectionpool - DEBUG - https://www.evidentlycochrane.net:443 "GET /everything-needed-know-menopause-no-one-told/ HTTP/1.1" 200 None
+2024-06-17 08:47:21,333 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.whitehouse.gov:443
+2024-06-17 08:47:22,741 - urllib3.connectionpool - DEBUG - https://www.whitehouse.gov:443 "GET /briefing-room/speeches-remarks/2023/07/29/remarks-by-president-biden-at-a-campaign-reception-freeport-me/ HTTP/1.1" 200 None
+2024-06-17 08:47:23,022 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): sethgillihan.com:443
+2024-06-17 08:47:24,161 - urllib3.connectionpool - DEBUG - https://sethgillihan.com:443 "GET /monster-obsessions-hurting-people/ HTTP/1.1" 406 226
+2024-06-17 08:47:57,671 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): newsapi.org:443
+2024-06-17 08:47:58,617 - urllib3.connectionpool - DEBUG - https://newsapi.org:443 "GET /v2/top-headlines?country=&apiKey=6183c180818d4f6eaabceccbe036f367 HTTP/1.1" 400 189
+2024-06-17 09:54:54,649 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 09:54:54,658 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 09:54:54,660 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 09:54:54,662 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 09:55:18,927 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 09:55:19,854 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20is%20the%20founder%20of%20meta&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 09:55:19,859 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): about.meta.com:443
+2024-06-17 09:55:20,615 - urllib3.connectionpool - DEBUG - https://about.meta.com:443 "GET /media-gallery/executives/mark-zuckerberg/ HTTP/1.1" 200 None
+2024-06-17 09:55:20,703 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): investor.fb.com:443
+2024-06-17 09:55:21,593 - urllib3.connectionpool - DEBUG - https://investor.fb.com:443 "GET /leadership-and-governance/person-details/ HTTP/1.1" 403 None
+2024-06-17 09:55:21,615 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 09:55:22,387 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Mark_Zuckerberg HTTP/1.1" 200 107722
+2024-06-17 09:55:23,261 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2024-06-17 09:55:24,178 - urllib3.connectionpool - DEBUG - https://www.linkedin.com:443 "GET /in/kyle-austin-450960116 HTTP/1.1" 999 1530
+2024-06-17 09:55:24,209 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:55:24,219 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 09:55:24,787 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Meta_Platforms HTTP/1.1" 200 92552
+2024-06-17 09:55:25,555 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): about.fb.com:443
+2024-06-17 09:55:26,778 - urllib3.connectionpool - DEBUG - https://about.fb.com:443 "GET /news/2021/10/founders-letter/ HTTP/1.1" 200 None
+2024-06-17 09:55:27,465 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 09:55:28,040 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /zuck/ HTTP/1.1" 302 0
+2024-06-17 09:55:28,050 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 09:55:28,462 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /zuck/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 09:55:28,600 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:55:28,621 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.instagram.com:443
+2024-06-17 09:55:29,203 - urllib3.connectionpool - DEBUG - https://www.instagram.com:443 "GET /zuck/?hl=en HTTP/1.1" 200 None
+2024-06-17 09:55:29,434 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-17 09:55:40,031 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): meta.wikimedia.org:443
+2024-06-17 09:55:40,543 - urllib3.connectionpool - DEBUG - https://meta.wikimedia.org:443 "GET /wiki/Founder HTTP/1.1" 200 None
+2024-06-17 09:58:09,721 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 09:58:10,443 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=whatsapp%20website&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 09:58:10,451 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.whatsapp.com:443
+2024-06-17 09:58:11,022 - urllib3.connectionpool - DEBUG - https://web.whatsapp.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:58:11,094 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 09:58:11,105 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.whatsapp.com:443
+2024-06-17 09:58:11,679 - urllib3.connectionpool - DEBUG - https://www.whatsapp.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:58:12,047 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): business.whatsapp.com:443
+2024-06-17 09:58:13,772 - urllib3.connectionpool - DEBUG - https://business.whatsapp.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:58:14,158 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.whatsapp.com:443
+2024-06-17 09:58:14,704 - urllib3.connectionpool - DEBUG - https://www.whatsapp.com:443 "GET /download HTTP/1.1" 200 None
+2024-06-17 09:58:15,045 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): faq.whatsapp.com:443
+2024-06-17 09:58:16,200 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /1317564962315842/?locale=en_US&cms_platform=web HTTP/1.1" 200 None
+2024-06-17 09:58:19,321 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:58:19,338 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): blog.whatsapp.com:443
+2024-06-17 09:58:20,431 - urllib3.connectionpool - DEBUG - https://blog.whatsapp.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:58:20,802 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): faq.whatsapp.com:443
+2024-06-17 09:58:21,336 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /835833917556304 HTTP/1.1" 302 0
+2024-06-17 09:58:21,675 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /835833917556304/?cms_platform=android HTTP/1.1" 200 None
+2024-06-17 09:58:21,988 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:58:21,997 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.squarespace.com:443
+2024-06-17 09:58:23,712 - urllib3.connectionpool - DEBUG - https://forum.squarespace.com:443 "GET /topic/202880-whatsapp-on-squarespace-sites/ HTTP/1.1" 200 45488
+2024-06-17 09:58:24,096 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): faq.whatsapp.com:443
+2024-06-17 09:58:24,524 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /665923838265756 HTTP/1.1" 302 0
+2024-06-17 09:58:24,908 - urllib3.connectionpool - DEBUG - https://faq.whatsapp.com:443 "GET /665923838265756/?cms_platform=android HTTP/1.1" 200 None
+2024-06-17 09:58:25,389 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:58:25,404 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 09:58:26,072 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/126qcr1/do_you_whatsapp_desktop_app_or_whatsapp_web/ HTTP/1.1" 302 405
+2024-06-17 09:58:26,076 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 09:58:26,649 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/whatsapp/comments/126qcr1/do_you_whatsapp_desktop_app_or_whatsapp_web/?rdt=44617 HTTP/1.1" 200 None
+2024-06-17 09:58:26,872 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 09:59:27,440 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 09:59:28,118 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=facebook%20website&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 09:59:28,128 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 09:59:28,508 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /Web.com/ HTTP/1.1" 302 0
+2024-06-17 09:59:28,510 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 09:59:28,955 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /Web.com/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 09:59:29,080 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:59:29,091 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 09:59:29,481 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /login/device-based/regular/login HTTP/1.1" 200 None
+2024-06-17 09:59:29,606 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): developers.facebook.com:443
+2024-06-17 09:59:31,345 - urllib3.connectionpool - DEBUG - https://developers.facebook.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:31,454 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): business.facebook.com:443
+2024-06-17 09:59:32,658 - urllib3.connectionpool - DEBUG - https://business.facebook.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:32,821 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): m.facebook.com:443
+2024-06-17 09:59:33,374 - urllib3.connectionpool - DEBUG - https://m.facebook.com:443 "GET /about/login HTTP/1.1" 200 None
+2024-06-17 09:59:33,393 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebookuserprivacysettlement.com:443
+2024-06-17 09:59:34,102 - urllib3.connectionpool - DEBUG - https://www.facebookuserprivacysettlement.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:34,127 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.meta.com:443
+2024-06-17 09:59:34,542 - urllib3.connectionpool - DEBUG - https://www.meta.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:34,936 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 09:59:34,962 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.metacareers.com:443
+2024-06-17 09:59:36,500 - urllib3.connectionpool - DEBUG - https://www.metacareers.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:36,749 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): research.facebook.com:443
+2024-06-17 09:59:39,473 - urllib3.connectionpool - DEBUG - https://research.facebook.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 09:59:39,585 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.messenger.com:443
+2024-06-17 09:59:40,271 - urllib3.connectionpool - DEBUG - https://www.messenger.com:443 "GET / HTTP/1.1" 200 None
+2024-06-17 10:01:39,531 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 10:01:39,533 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 10:01:39,533 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 10:01:39,534 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 10:01:45,393 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 10:01:46,746 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20Lol&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 10:01:46,763 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 10:01:47,633 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 10:01:48,822 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): forum.prusa3d.com:443
+2024-06-17 10:01:51,053 - urllib3.connectionpool - DEBUG - https://forum.prusa3d.com:443 "GET /forum/original-prusa-xl-tool-changer-general-discussion-announcements-and-releases/prusa-xl-build-thread-two-head-version/paged/3/ HTTP/1.1" 200 None
+2024-06-17 10:01:52,159 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 10:01:52,646 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/ HTTP/1.1" 302 405
+2024-06-17 10:01:52,654 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 10:01:53,287 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/DreamlightValley/comments/1ckmodk/as_soon_as_i_saw_the_big_pencil_this_came_to_mind/?rdt=65372 HTTP/1.1" 200 None
+2024-06-17 10:01:53,543 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:01:53,712 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 10:01:54,352 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-a-message-saying-oh-that-s-good HTTP/1.1" 200 None
+2024-06-17 10:01:54,964 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 10:01:55,473 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/ HTTP/1.1" 302 408
+2024-06-17 10:01:55,482 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 10:01:56,066 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/fut/comments/12fdt0u/lol_i_know_its_just_gold_mbappe_finally_get_a/?rdt=50762 HTTP/1.1" 200 None
+2024-06-17 10:01:56,344 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:01:56,565 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pkdcure.org:443
+2024-06-17 10:01:58,048 - urllib3.connectionpool - DEBUG - https://pkdcure.org:443 "GET /body-image-and-a-pkd-belly/ HTTP/1.1" 403 146
+2024-06-17 10:01:58,064 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 10:01:58,561 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 406
+2024-06-17 10:01:58,574 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 10:01:59,190 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=51606 HTTP/1.1" 200 None
+2024-06-17 10:01:59,449 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:01:59,608 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-06-17 10:01:59,942 - urllib3.connectionpool - DEBUG - https://www.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/ HTTP/1.1" 302 0
+2024-06-17 10:01:59,949 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): web.facebook.com:443
+2024-06-17 10:02:00,323 - urllib3.connectionpool - DEBUG - https://web.facebook.com:443 "GET /TaylorSwift/posts/when-i-was-writing-the-fortnight-music-video-i-wanted-to-show-you-the-worlds-i-s/984846453007173/?_rdc=1&_rdr HTTP/1.1" 200 None
+2024-06-17 10:02:00,436 - charset_normalizer - DEBUG - Encoding detection: ascii is most likely the one.
+2024-06-17 10:02:00,500 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 10:02:00,987 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/ HTTP/1.1" 302 406
+2024-06-17 10:02:00,997 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 10:02:01,672 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/musicsuggestions/comments/16zoowx/what_is_the_worst_song_uve_ever_heard_before_lol/?rdt=46195 HTTP/1.1" 200 None
+2024-06-17 10:02:01,991 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:02:02,196 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ell.stackexchange.com:443
+2024-06-17 10:02:02,887 - urllib3.connectionpool - DEBUG - https://ell.stackexchange.com:443 "GET /questions/161181/happy-to-hear-that-great-to-hear-that-glad-to-hear-that HTTP/1.1" 200 None
+2024-06-17 10:02:02,962 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:03:30,126 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 10:03:30,127 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 10:03:30,129 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 10:03:30,132 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 10:04:21,654 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 10:04:21,656 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 10:04:21,657 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 10:04:21,659 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-17 10:05:51,941 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 10:05:53,181 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=It's%20great%20to%20hear%20that!%20I'm%20cool&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 10:05:53,202 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.reddit.com:443
+2024-06-17 10:05:53,765 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/ HTTP/1.1" 302 406
+2024-06-17 10:05:53,781 - urllib3.connectionpool - DEBUG - Resetting dropped connection: www.reddit.com
+2024-06-17 10:05:54,395 - urllib3.connectionpool - DEBUG - https://www.reddit.com:443 "GET /r/socialskills/comments/jf3u67/what_to_say_instead_of_oh_wow_thats_nicegood_oh/?rdt=50340 HTTP/1.1" 200 None
+2024-06-17 10:05:54,649 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:05:54,844 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 10:05:55,691 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /What-should-I-reply-when-someone-says-it-is-good-to-hear-from-you HTTP/1.1" 200 None
+2024-06-17 10:05:58,287 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): esotericsoftware.com:443
+2024-06-17 10:05:59,745 - urllib3.connectionpool - DEBUG - https://esotericsoftware.com:443 "GET /forum/d/26233-i-know-im-absolutely-crazy-for-attempting-this HTTP/1.1" 200 None
+2024-06-17 10:06:00,063 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 10:06:00,663 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-you-respond-if-someone-says-looking-forward-to-it HTTP/1.1" 200 None
+2024-06-17 10:06:01,297 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): connect.mayoclinic.org:443
+2024-06-17 10:06:02,287 - urllib3.connectionpool - DEBUG - https://connect.mayoclinic.org:443 "GET /discussion/high-calcium-score-shock/?pg=13 HTTP/1.1" 403 118
+2024-06-17 10:06:02,309 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.quora.com:443
+2024-06-17 10:06:03,905 - urllib3.connectionpool - DEBUG - https://www.quora.com:443 "GET /How-do-I-respond-to-someone-who-says-%E2%80%9Cthats-awesome%E2%80%9D HTTP/1.1" 200 None
+2024-06-17 10:06:05,036 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.nytimes.com:443
+2024-06-17 10:06:05,977 - urllib3.connectionpool - DEBUG - https://www.nytimes.com:443 "GET /2020/07/09/opinion/sunday/ban-cars-manhattan-cities.html HTTP/1.1" 403 581
+2024-06-17 10:06:06,010 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): english.stackexchange.com:443
+2024-06-17 10:06:06,454 - urllib3.connectionpool - DEBUG - https://english.stackexchange.com:443 "GET /questions/376300/is-i-am-glad-to-hear-that-very-formal-or-informal-phrase HTTP/1.1" 200 None
+2024-06-17 10:06:06,555 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-17 10:06:06,669 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.vogue.com:443
+2024-06-17 10:06:07,710 - urllib3.connectionpool - DEBUG - https://www.vogue.com:443 "GET /article/reconnecting-with-ex-friends HTTP/1.1" 200 None
+2024-06-17 10:06:08,736 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): community.fly.io:443
+2024-06-17 10:06:10,115 - urllib3.connectionpool - DEBUG - https://community.fly.io:443 "GET /t/reliability-its-not-great/11253 HTTP/1.1" 200 None
+2024-06-17 10:26:06,533 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-17 10:26:07,527 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=what%20is%20the%20most%20famous%20website%20on%20the%20internet&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-17 10:26:07,541 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-17 10:26:08,057 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/List_of_most-visited_websites HTTP/1.1" 200 None
+2024-06-17 10:26:08,475 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): explodingtopics.com:443
+2024-06-17 10:26:09,619 - urllib3.connectionpool - DEBUG - https://explodingtopics.com:443 "GET /blog/most-visited-websites HTTP/1.1" 200 None
+2024-06-17 10:26:10,424 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.similarweb.com:443
+2024-06-17 10:26:11,315 - urllib3.connectionpool - DEBUG - https://www.similarweb.com:443 "GET /top-websites/ HTTP/1.1" 403 393
+2024-06-17 10:26:11,341 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.visualcapitalist.com:443
+2024-06-17 10:26:12,214 - urllib3.connectionpool - DEBUG - https://www.visualcapitalist.com:443 "GET /the-50-most-visited-websites-in-the-world/ HTTP/1.1" 403 None
+2024-06-17 10:26:12,233 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.semrush.com:443
+2024-06-17 10:26:12,884 - urllib3.connectionpool - DEBUG - https://www.semrush.com:443 "GET /website/top/ HTTP/1.1" 200 None
+2024-06-17 10:26:13,157 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.statista.com:443
+2024-06-17 10:26:13,797 - urllib3.connectionpool - DEBUG - https://www.statista.com:443 "GET /statistics/1201880/most-visited-websites-worldwide/ HTTP/1.1" 200 None
+2024-06-17 10:26:14,310 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.semrush.com:443
+2024-06-17 10:26:15,224 - urllib3.connectionpool - DEBUG - https://www.semrush.com:443 "GET /blog/most-visited-websites/ HTTP/1.1" 200 None
+2024-06-17 10:26:15,850 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-06-17 10:26:17,968 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /advisor/business/software/website-statistics/ HTTP/1.1" 200 116686
+2024-06-17 10:26:18,541 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pressgazette.co.uk:443
+2024-06-17 10:26:20,599 - urllib3.connectionpool - DEBUG - https://pressgazette.co.uk:443 "GET /media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/ HTTP/1.1" 200 82535
+2024-06-17 10:26:21,005 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ahrefs.com:443
+2024-06-17 10:26:21,846 - urllib3.connectionpool - DEBUG - https://ahrefs.com:443 "GET /top HTTP/1.1" 200 None
+2024-06-17 13:45:28,216 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-17 13:45:28,248 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-17 13:45:28,249 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-17 13:45:28,249 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 10:20:14,235 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 10:20:14,243 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 10:20:14,247 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 10:20:14,250 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 10:22:47,838 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 10:22:47,839 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 10:22:47,840 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 10:22:47,842 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 10:40:39,188 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 10:40:39,190 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 10:40:39,192 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 10:40:39,194 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 10:47:41,946 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 10:47:41,947 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 10:47:41,947 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 10:47:41,948 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 10:52:48,851 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 10:52:48,852 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 10:52:48,853 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 10:52:48,854 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 12:07:34,193 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.0s ...
+2024-06-18 12:07:34,311 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:07:34,431 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:07:34,628 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:07:34,830 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.3s ...
+2024-06-18 12:07:35,185 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:07:35,420 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.5s ...
+2024-06-18 12:07:35,960 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.4s ...
+2024-06-18 12:07:36,394 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:07:36,718 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.6s ...
+2024-06-18 12:07:37,426 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.7s ...
+2024-06-18 12:07:38,225 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.6s ...
+2024-06-18 12:07:38,903 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.6s ...
+2024-06-18 12:07:40,586 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.4s ...
+2024-06-18 12:07:41,030 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 3.9s ...
+2024-06-18 12:07:45,001 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 3.6s ...
+2024-06-18 12:07:48,699 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 2.5s ...
+2024-06-18 12:07:51,280 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 4.8s ...
+2024-06-18 12:07:56,193 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 8.5s ...
+2024-06-18 12:08:04,770 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.7s ...
+2024-06-18 12:08:06,487 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 12.4s ...
+2024-06-18 12:08:18,993 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 7.8s ...
+2024-06-18 12:08:26,931 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 24.7s ...
+2024-06-18 12:08:51,700 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 25.6s ...
+2024-06-18 12:09:17,327 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 19.3s ...
+2024-06-18 12:10:00,397 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:10:00,512 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:10:00,680 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.0s ...
+2024-06-18 12:10:00,752 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:10:00,876 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:10:01,061 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:10:01,278 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:10:01,511 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.4s ...
+2024-06-18 12:10:02,021 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:10:02,293 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.4s ...
+2024-06-18 12:10:02,761 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.5s ...
+2024-06-18 12:10:03,310 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.8s ...
+2024-06-18 12:10:04,207 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.7s ...
+2024-06-18 12:10:05,968 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 2.2s ...
+2024-06-18 12:10:08,241 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 2.7s ...
+2024-06-18 12:10:10,946 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 5.0s ...
+2024-06-18 12:10:16,071 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 4.8s ...
+2024-06-18 12:10:20,936 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 2.1s ...
+2024-06-18 12:10:23,125 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 6.1s ...
+2024-06-18 12:10:29,342 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 12.0s ...
+2024-06-18 12:10:41,367 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 11.4s ...
+2024-06-18 12:11:08,978 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 12:11:08,999 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 12:11:09,001 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 12:11:09,002 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 12:11:34,177 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:11:34,304 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:11:34,512 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:11:34,680 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.0s ...
+2024-06-18 12:11:34,777 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.0s ...
+2024-06-18 12:11:34,846 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:11:35,101 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.2s ...
+2024-06-18 12:11:35,415 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.5s ...
+2024-06-18 12:11:36,048 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.6s ...
+2024-06-18 12:11:36,738 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.1s ...
+2024-06-18 12:11:36,901 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.5s ...
+2024-06-18 12:11:37,479 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.8s ...
+2024-06-18 12:11:39,304 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 0.8s ...
+2024-06-18 12:11:40,205 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.9s ...
+2024-06-18 12:11:42,146 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 1.6s ...
+2024-06-18 12:11:43,843 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 3.4s ...
+2024-06-18 12:11:47,386 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 4.4s ...
+2024-06-18 12:11:51,886 - google.api_core.retry - DEBUG - Retrying due to 503 DNS resolution failed for dialogflow.googleapis.com:443: UNAVAILABLE: WSA Error, sleeping 7.2s ...
+2024-06-18 12:13:15,516 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 12:13:15,519 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 12:13:15,520 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 12:13:15,520 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-18 12:15:39,697 - google.api_core.retry - DEBUG - Retrying due to 503 Connection timed out, sleeping 0.0s ...
+2024-06-18 12:15:39,915 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.1s ...
+2024-06-18 12:15:40,036 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.1s ...
+2024-06-18 12:15:40,218 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.1s ...
+2024-06-18 12:15:40,400 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.2s ...
+2024-06-18 12:15:40,642 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.1s ...
+2024-06-18 12:15:40,862 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.2s ...
+2024-06-18 12:15:41,154 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.2s ...
+2024-06-18 12:15:41,443 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.0s ...
+2024-06-18 12:15:41,511 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.0s ...
+2024-06-18 12:15:41,609 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 1.3s ...
+2024-06-18 12:15:42,992 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.6s ...
+2024-06-18 12:15:43,603 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 1.9s ...
+2024-06-18 12:15:45,574 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.3s ...
+2024-06-18 12:15:45,975 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 2.2s ...
+2024-06-18 12:15:48,239 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 0.2s ...
+2024-06-18 12:15:48,510 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 6.3s ...
+2024-06-18 12:15:54,940 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 5.6s ...
+2024-06-18 12:16:00,674 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 3.5s ...
+2024-06-18 12:16:04,227 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 5.5s ...
+2024-06-18 12:16:09,777 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 1.2s ...
+2024-06-18 12:16:11,031 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 3.9s ...
+2024-06-18 12:16:14,999 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 29.8s ...
+2024-06-18 12:16:44,879 - google.api_core.retry - DEBUG - Retrying due to 503 failed to connect to all addresses; last error: UNAVAILABLE: ipv4:172.217.17.10:443: No route to host, sleeping 3.5s ...
+2024-06-18 12:21:45,602 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-18 12:21:45,603 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-18 12:21:45,604 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-18 12:21:45,605 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-19 14:41:12,661 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-19 14:41:13,674 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20is%20elon%20musk&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-19 14:41:13,723 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-19 14:41:14,338 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Elon_Musk HTTP/1.1" 200 224137
+2024-06-19 14:41:16,648 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.britannica.com:443
+2024-06-19 14:41:17,637 - urllib3.connectionpool - DEBUG - https://www.britannica.com:443 "GET /money/Elon-Musk HTTP/1.1" 200 None
+2024-06-19 14:41:17,733 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-19 14:41:28,108 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.tesla.com:443
+2024-06-19 14:41:38,586 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): twitter.com:443
+2024-06-19 14:41:39,941 - urllib3.connectionpool - DEBUG - https://twitter.com:443 "GET /elonmusk HTTP/1.1" 302 70
+2024-06-19 14:41:39,948 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): x.com:443
+2024-06-19 14:41:41,320 - urllib3.connectionpool - DEBUG - https://x.com:443 "GET /elonmusk HTTP/1.1" 200 None
+2024-06-19 14:41:41,347 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-06-19 14:41:42,097 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /profile/elon-musk/ HTTP/1.1" 200 77570
+2024-06-19 14:41:43,729 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bbc.com:443
+2024-06-19 14:41:46,952 - urllib3.connectionpool - DEBUG - https://www.bbc.com:443 "GET /news/business-61234231 HTTP/1.1" 200 49490
+2024-06-19 14:41:47,545 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ir.tesla.com:443
+2024-06-19 14:41:49,533 - urllib3.connectionpool - DEBUG - https://ir.tesla.com:443 "GET /corporate/elon-musk HTTP/1.1" 200 158286
+2024-06-19 14:41:51,961 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-19 14:41:53,630 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=R2meHtrO1n8 HTTP/1.1" 200 None
+2024-06-19 14:42:01,538 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-19 14:42:01,564 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.amazon.com:443
+2024-06-19 14:42:05,287 - urllib3.connectionpool - DEBUG - https://www.amazon.com:443 "GET /Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233 HTTP/1.1" 500 1173
+2024-06-19 14:42:30,098 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-19 14:42:31,063 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20is%20the%20owner%20of%20meta&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-19 14:42:31,081 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): about.meta.com:443
+2024-06-19 14:42:31,562 - urllib3.connectionpool - DEBUG - https://about.meta.com:443 "GET /media-gallery/executives/mark-zuckerberg/ HTTP/1.1" 200 None
+2024-06-19 14:42:31,675 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-19 14:42:32,259 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Meta_Platforms HTTP/1.1" 200 92552
+2024-06-19 14:42:33,542 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): investor.fb.com:443
+2024-06-19 14:42:34,887 - urllib3.connectionpool - DEBUG - https://investor.fb.com:443 "GET /leadership-and-governance/ HTTP/1.1" 403 None
+2024-06-19 14:42:35,027 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-19 14:42:35,616 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Mark_Zuckerberg HTTP/1.1" 200 107715
+2024-06-19 14:42:36,677 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-19 14:42:47,072 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.businessinsider.com:443
+2024-06-19 14:42:59,146 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-19 14:43:18,090 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.instagram.com:443
+2024-06-19 14:43:20,741 - urllib3.connectionpool - DEBUG - https://www.instagram.com:443 "GET /zuck/?hl=en HTTP/1.1" 200 None
+2024-06-19 14:43:24,190 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.ft.com:443
+2024-06-19 14:43:31,633 - urllib3.connectionpool - DEBUG - https://www.ft.com:443 "GET /content/d1607121-0a2e-4b74-b690-d368d0c290e8 HTTP/1.1" 200 28770
+2024-06-19 14:43:33,501 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bbc.com:443
+2024-06-19 14:43:40,506 - urllib3.connectionpool - DEBUG - https://www.bbc.com:443 "GET /news/technology-65410293 HTTP/1.1" 200 42989
+2024-06-19 14:52:37,322 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-19 14:52:37,323 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-19 14:52:37,324 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-19 14:52:37,324 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-19 14:56:32,847 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-19 14:56:32,858 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2024-06-19 14:56:42,720 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-19 14:56:42,727 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2024-06-19 22:14:44,423 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-19 22:14:44,425 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-19 22:14:44,425 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-19 22:14:44,426 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-19 22:15:22,220 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-19 22:15:28,317 - urllib3.connectionpool - DEBUG - https://www.googleapis.com:443 "GET /customsearch/v1?q=who%20is%20elon%20musk&key=AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE&cx=90738cc91c337468f HTTP/1.1" 200 None
+2024-06-19 22:15:28,433 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): en.wikipedia.org:443
+2024-06-19 22:15:29,126 - urllib3.connectionpool - DEBUG - https://en.wikipedia.org:443 "GET /wiki/Elon_Musk HTTP/1.1" 200 224137
+2024-06-19 22:15:31,312 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.britannica.com:443
+2024-06-19 22:15:32,390 - urllib3.connectionpool - DEBUG - https://www.britannica.com:443 "GET /money/Elon-Musk HTTP/1.1" 200 None
+2024-06-19 22:15:32,506 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.investopedia.com:443
+2024-06-19 22:15:43,065 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.tesla.com:443
+2024-06-19 22:15:58,462 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): twitter.com:443
+2024-06-19 22:15:59,374 - urllib3.connectionpool - DEBUG - https://twitter.com:443 "GET /elonmusk HTTP/1.1" 302 70
+2024-06-19 22:15:59,387 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): x.com:443
+2024-06-19 22:16:00,186 - urllib3.connectionpool - DEBUG - https://x.com:443 "GET /elonmusk HTTP/1.1" 200 None
+2024-06-19 22:16:00,210 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.forbes.com:443
+2024-06-19 22:16:03,147 - urllib3.connectionpool - DEBUG - https://www.forbes.com:443 "GET /profile/elon-musk/ HTTP/1.1" 200 77511
+2024-06-19 22:16:08,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.bbc.com:443
+2024-06-19 22:16:20,135 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ir.tesla.com:443
+2024-06-19 22:16:25,991 - urllib3.connectionpool - DEBUG - https://ir.tesla.com:443 "GET /corporate/elon-musk HTTP/1.1" 200 158286
+2024-06-19 22:16:28,003 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.youtube.com:443
+2024-06-19 22:16:28,512 - urllib3.connectionpool - DEBUG - https://www.youtube.com:443 "GET /watch?v=2BfMuHDfGJI HTTP/1.1" 200 None
+2024-06-19 22:16:29,153 - charset_normalizer - DEBUG - Encoding detection: utf_8 is most likely the one.
+2024-06-19 22:16:29,199 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.amazon.com:443
+2024-06-19 22:16:29,864 - urllib3.connectionpool - DEBUG - https://www.amazon.com:443 "GET /Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233 HTTP/1.1" 500 1173
+2024-06-25 06:40:39,576 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-06-25 06:40:39,585 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 41 9
+2024-06-25 06:40:39,585 - PIL.PngImagePlugin - DEBUG - STREAM b'iTXt' 62 1264
+2024-06-25 06:40:39,586 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 1338 68225
+2024-06-25 06:41:07,785 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.googleapis.com:443
+2024-06-25 06:41:07,803 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443

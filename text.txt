@@ -1,0 +1,41 @@
+kenbot@kenbot-3579.iam.gserviceaccount.
+kenbot-3579
+"C:/Users/adewalemichael/Documents/KENZY LEARN/chatbot/CHATBOT/KenBot1/kenbot-3579-ec28eaad3c3f.json"
+
+Google Search Engine ID : "90738cc91c337468f"
+Google Search API KEY: "AIzaSyDXyPPeMHRDQY82REpXqxY_Iz11POmZvjE"
+Google Weather API: "748bf0260d4165ccb4c0927fdf23baa0"
+Google News API: "6183c180818d4f6eaabceccbe036f367"
+
+Modifications:
+- Handle special cases responses with a vast model of common user queries or inputs and corresponding prompts and responses dictionaries and lists in an external python file and import it as a module to the main server for handling and execution and to improve the response system.
+- 
+
+def detect_intent_texts(project_id, session_id, text, language_code):
+    session_client = dialogflow.SessionsClient.from_service_account_json("./kenbot-3579-ec28eaad3c3f.json")
+    session = session_client.session_path(project_id, session_id)
+    
+    text_input = dialogflow.TextInput(text=text, language_code=language_code)
+    query_input = dialogflow.QueryInput(text=text_input)
+    
+    response = session_client.detect_intent(request={"session": session, "query_input": query_input})
+    
+    return response.query_result.fulfillment_text
+
+# Example usage in your request handler
+def handle_chat_request(post_data):
+    parsed_data = parse_qs(post_data)
+    user_query = parsed_data.get('query', [''])[0]
+    
+    if not user_query:
+        return "Please provide a query."
+    
+    user_query = user_query.strip()
+    
+    try:
+        response = detect_intent_texts(dialogflow_project_id, dialogflow_session_id, user_query, dialogflow_language_code)
+    except Exception as e:
+        log_error(f"Error detecting intent: {e}")
+        response = "Sorry, I couldn't process your request."
+    
+    return response

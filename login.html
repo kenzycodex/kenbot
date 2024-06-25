@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KenBot - Login</title>
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="icon" href="images/KenBot-logo.png" type="image/x-icon" sizes="64x64">
+</head>
+<body>
+    <div class="container">
+        <div class="login-container">
+            <h1>
+                <img src="images/KenBot-logo.png" alt="KenBot Logo" class="logo">
+                <div class="logo-text"><span>Ken</span>Bot - Login</div>
+            </h1>
+            <form id="login-form">
+                <input type="email" id="email" placeholder="Email" name="email" required>
+                <div class="password-input">
+                    <input type="password" id="password" placeholder="Password" name="password" autocomplete="off" required>
+                    <i id="toggle-password" class="fas fa-eye-slash"></i>
+                </div>
+                <button type="submit">Login</button>
+            </form>
+            <p class="signup-link">Don't have an account? <a href="signup.html" id="signup-link">Sign Up</a></p>
+            <div id="login-error" class="popup-message error"></div>
+            <div id="login-success" class="popup-message success"></div>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+</html>

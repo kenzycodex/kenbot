@@ -1,0 +1,189 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #40414f;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.signup-container {
+    background-color: #ddd;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 350px; /* Limit width on larger screens */
+    width: 90%; /* Responsive width */
+    margin: 0 auto;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    object-fit: cover;
+}
+
+.logo-text {
+    font-family: Geneva, Tahoma, sans-serif;
+    color: #333333;
+    font-weight: 600;
+}
+
+.logo-text span {
+    font-weight: 800;
+    color: #06b396;
+}
+
+input[type="text"], input[type="email"], input[type="password"], select, button {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+select:focus,
+button:focus {
+    border-color: #08c485; /* Light green */
+    outline: none;
+}
+
+
+select {
+    color: #666666;
+}
+
+button {
+    background-color: #06b396;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #08c485;
+}
+
+.error {
+    color: #ff0000;
+    margin-bottom: 10px;
+}
+
+.login-link {
+    color: #333333;
+}
+
+.login-link a {
+    color: #06b396;
+    text-decoration: none;
+}
+
+.login-link a:hover {
+    color: #08c485;
+    text-decoration: underline;
+}
+
+.popup-message {
+    display: none;
+    position: fixed;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 3px 20px;
+    border-radius: 5px;
+    z-index: 1000;
+    transition: opacity 0.5s ease-in-out, top 0.5s ease-in-out;
+}
+
+.popup-message.show {
+    display: block;
+    opacity: 1;
+    top: 40px;
+}
+
+.popup-message.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.popup-message.success {
+    background-color: #d4edda;
+    color: #08c485;
+    border: 1px solid #c3e6cb;
+}
+
+.password-input {
+    position: relative;
+}
+
+.password-input input[type="password"] {
+    padding-right: 40px; /* Adjust as needed based on icon size */
+}
+
+.password-input i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px; /* Adjust as needed for desired spacing */
+    cursor: pointer;
+}
+
+.profile-pic-container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #4CAF50;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+#profile-pic-input {
+    display: none;
+}
+
+.profile-pic-container .fa-user-circle {
+    font-size: 100px;
+    color: #06b396;
+    cursor: pointer;
+}
+
+.profile-pic-container small {
+    display: block;
+    margin-top: 5px;
+    color: #06b396;
+    font-size: 12px;
+}
+
+#password-strength, #password-match {
+    display: block;
+    font-size: 12px;
+    margin-top: 5px;
+}
