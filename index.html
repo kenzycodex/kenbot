@@ -3,33 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KenBot - Chat</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>KenBot - Sign Up</title>
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="icon" href="images/KenBot-logo.png" type="image/x-icon" sizes="64x64">
 </head>
 <body>
-    <div id="main">
-        <header>
-            <h1>
-                <img src="images/KenBot-logo.png" alt="KenBot Logo" class="logo">
-                <span>Ken</span>Bot
-            </h1>                      
-        </header>
-        <div id="chat-container">
-            <div id="chat-box">
-                <div id="messages"></div>
+    <div class="container">
+        <div class="signup-container">
+            <h1><img src="images/KenBot-logo.png" alt="KenBot Logo" class="logo"><span>Ken</span>Bot - Sign Up</h1>
+            <div class="profile-pic-container">
+                <i id="profile-pic-icon" class="fas fa-user-circle"></i>
+                <img id="profile-pic" src="default-avatar.png" alt="Profile Picture" style="display: none;">
+                <input type="file" id="profile-pic-input" accept="image/*">
+                <small>Upload Profile</small>
             </div>
-            <form id="chat-form">
-                <input type="text" id="user-input" placeholder="Type a message..." autocomplete="off">
-                <button type="submit"><i class="fas fa-paper-plane"></i></button>
+            <form id="signup-form">
+                <input type="text" id="username" placeholder="Username" name="username" required>
+                <select id="gender" required>
+                    <option value="" disabled selected>Gender</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+                <input type="email" id="email" placeholder="Email" name="email" required>
+                <div class="password-input">
+                    <input type="password" id="password" placeholder="Password" name="password" autocomplete="off" required>
+                    <i id="toggle-password" class="fas fa-eye-slash"></i>
+                    <small id="password-strength"></small>
+                </div>
+                <div class="password-input">
+                    <input type="password" id="confirm-password" placeholder="Confirm Password" name="confirm-password" autocomplete="off" required>
+                    <i id="toggle-confirm-password" class="fas fa-eye-slash"></i>
+                    <small id="password-match"></small>
+                </div>
+                <button type="submit">Sign Up</button>
             </form>
+            <p class="login-link">Already have an account? <a href="login.html" id="login-link">Login</a></p>
         </div>
-        <div id="scroll-down-icon">
-            <i class="fas fa-chevron-down"></i>
+        <div id="signup-error" class="popup-message error">
+            <span id="close-error" class="close-btn">&times;</span>
+        </div>
+        <div id="signup-success" class="popup-message success">
+            <span id="close-success" class="close-btn">&times;</span>
         </div>
     </div>
-    <!-- Load your JavaScript file -->
     <script src="index.js"></script>
 </body>
 </html>

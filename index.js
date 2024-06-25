@@ -1,134 +1,177 @@
-document.addEventListener('DOMContentLoaded', async () => {
-    const chatForm = document.getElementById('chat-form');
-    const userInput = document.getElementById('user-input');
-    const messagesContainer = document.getElementById('messages');
-    const scrollDownIcon = document.getElementById('scroll-down-icon');
+const signupForm = document.getElementById('signup-form');
+const signupError = document.getElementById('signup-error');
+const signupSuccess = document.getElementById('signup-success');
+const passwordField = document.getElementById('password');
+const confirmPasswordField = document.getElementById('confirm-password');
+const togglePassword = document.getElementById('toggle-password');
+const toggleConfirmPassword = document.getElementById('toggle-confirm-password');
+const profilePicInput = document.getElementById('profile-pic-input');
+const profilePic = document.getElementById('profile-pic');
+const profilePicIcon = document.getElementById('profile-pic-icon');
+const passwordStrengthText = document.getElementById('password-strength');
+const passwordMatch = document.getElementById('password-match');
 
-    const email = localStorage.getItem('email');
-    let username = 'Guest';
-    let profilePic = './images/1.png';
+// Profile Picture Handling
+profilePicIcon.addEventListener('click', () => {
+    profilePicInput.click();
+});
 
-    // Fetch user profile
-    if (email) {
-        try {
-            const response = await fetch(`/getUserProfile?email=${encodeURIComponent(email)}`);
-            if (response.ok) {
-                const data = await response.json();
-                username = data.username || 'Guest';
-                if (data.profilePicFilename) {
-                    profilePic = `./${data.profilePicFilename}`;
-                }
-            } else {
-                console.error('Failed to fetch user profile:', response.statusText);
-            }
-        } catch (error) {
-            console.error('Error fetching user profile:', error);
-        }
-    }
+profilePic.addEventListener('click', () => {
+    profilePicInput.click();
+});
 
-    appendMessage('KenBot', `Welcome, ${username}!`, 'bot-message');
-
-    // Function to scroll to the bottom of the chat box smoothly
-    function scrollToBottom() {
-        const chatBox = document.getElementById('chat-box');
-        const lastMessage = chatBox.lastElementChild;
-        if (lastMessage) {
-            lastMessage.scrollIntoView({ behavior: 'smooth', block: 'end' });
-        }
-    }
-
-    // Event listener for the scroll down icon
-    scrollDownIcon.addEventListener('click', () => {
-        scrollToBottom();
-    });
-
-    // Initial scroll to bottom
-    scrollToBottom();
-
-    // Event listener for form submission (sending user message)
-    chatForm.addEventListener('submit', async (event) => {
-        event.preventDefault();
-        const messageText = userInput.value.trim();
-        if (messageText === '') return;
-
-        // Disable the send button while processing the message
-        chatForm.querySelector('button[type="submit"]').disabled = true;
-        chatForm.querySelector('button[type="submit"]').style.opacity = 0.5;
-
-        appendMessage('You', messageText, 'user-message');
-        userInput.value = '';
-
-        try {
-            // Display loading indicator
-            const loadingMessage = appendLoadingMessage();
-
-            const response = await fetch('/chat', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: `query=${encodeURIComponent(messageText)}`
-            });
-
-            if (!response.ok) {
-                throw new Error('Network response was not ok.');
-            }
-
-            const data = await response.json();
-            messagesContainer.removeChild(loadingMessage); // Remove loading indicator
-            appendMessage('KenBot', data.response, 'bot-message');
-            scrollToBottom(); // Scroll to bottom after appending bot's response
-        } catch (error) {
-            console.error('Error:', error);
-            appendMessage('KenBot', 'Sorry, something went wrong. Please try again later.', 'bot-message');
-            scrollToBottom(); // Scroll to bottom even if there's an error message
-        } finally {
-            // Re-enable the send button after processing the message
-            chatForm.querySelector('button[type="submit"]').disabled = false;
-            chatForm.querySelector('button[type="submit"]').style.opacity = 1;
-        }
-    });
-
-    // Function to append a message to the chat UI
-    function appendMessage(sender, text, messageClass) {
-        const messageElement = document.createElement('div');
-        messageElement.classList.add('message', messageClass);
-
-        const profilePicElement = document.createElement('img');
-        profilePicElement.classList.add('profile-pic');
-        profilePicElement.src = sender === 'You' ? profilePic : './images/KenBot-logo.png';
-
-        messageElement.appendChild(profilePicElement);
-        messageElement.innerHTML += `<span>${text}</span>`;
-        messagesContainer.appendChild(messageElement);
-
-        // After appending message, scroll to bottom if not manually scrolled up
-        if (!isManuallyScrolledUp()) {
-            scrollToBottom();
-        }
-    }
-
-    // Function to append a loading message (simulated)
-    function appendLoadingMessage() {
-        const loadingMessage = document.createElement('div');
-        loadingMessage.classList.add('message', 'loading-message', 'bot-message'); // Ensure 'bot-message' class is added
-
-        const loadingBubble = document.createElement('div');
-        loadingBubble.classList.add('loading-bubble');
-        loadingBubble.innerHTML = '<div class="dot"></div><div class="dot"></div><div class="dot"></div>';
-
-        loadingMessage.appendChild(loadingBubble);
-        messagesContainer.appendChild(loadingMessage);
-
-        // After appending loading message, scroll to bottom if not manually scrolled up
-        if (!isManuallyScrolledUp()) {
-            scrollToBottom();
-        }
-
-        return loadingMessage; // Return the loading message element
-    }
-
-    // Function to check if the chat box is manually scrolled up
-    function isManuallyScrolledUp() {
-        // Calculate if scrolled to the bottom (considering a small threshold)
-        return messagesContainer.scrollTop + messagesContainer.clientHeight < messagesContainer.scrollHeight - 20;
+profilePicInput.addEventListener('change', () => {
+    const file = profilePicInput.files[0];
+    if (file) {
+        const reader = new FileReader();
+        reader.onload = () => {
+            profilePic.src = reader.result;
+            profilePic.style.display = 'block';
+            profilePicIcon.style.display = 'none';
+        };
+        reader.readAsDataURL(file);
     }
 });
+
+// Form Submission Handling
+signupForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const username = document.getElementById('username').value;
+    const email = document.getElementById('email').value;
+    const password = passwordField.value;
+    const confirmPassword = confirmPasswordField.value;
+    const gender = document.getElementById('gender').value;
+    const profilePicFile = profilePicInput.files[0];
+
+    if (password !== confirmPassword) {
+        showMessage(signupError, 'Passwords do not match.');
+        return;
+    }
+
+    if (!gender) {
+        showMessage(signupError, 'Please select your gender.');
+        return;
+    }
+
+    if (!profilePicFile) {
+        showMessage(signupError, 'Please upload a profile picture.');
+        return;
+    }
+
+    const passwordStrength = validatePasswordStrength(password);
+    if (!passwordStrength.isValid) {
+        showMessage(signupError, passwordStrength.message);
+        return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = async () => {
+        const profilePicData = reader.result;
+
+        const formData = {
+            username,
+            email,
+            password,
+            gender,
+            profilePic: profilePicData
+        };
+
+        try {
+            const response = await fetch('/saveData', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            });
+
+            if (response.ok) {
+                showMessage(signupSuccess, 'Signed up successfully!');
+                signupForm.reset();
+                profilePic.src = "default-avatar.png";
+                profilePic.style.display = 'none';
+                profilePicIcon.style.display = 'block';
+                setTimeout(() => {
+                    window.location.href = 'login.html';
+                }, 2000);
+            } else {
+                const errorData = await response.json();
+                if (errorData.error) {
+                    showMessage(signupError, errorData.error);
+                } else {
+                    showMessage(signupError, 'An unknown error occurred.');
+                }
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            showMessage(signupError, 'An error occurred while processing your request.');
+        }
+    };
+
+    reader.readAsDataURL(profilePicFile);
+});
+
+// Password Toggle Handling
+togglePassword.addEventListener('click', () => {
+    const type = passwordField.getAttribute('type') === 'password' ? 'text' : 'password';
+    passwordField.setAttribute('type', type);
+    togglePassword.classList.toggle('fa-eye-slash');
+    togglePassword.classList.toggle('fa-eye');
+});
+
+toggleConfirmPassword.addEventListener('click', () => {
+    const type = confirmPasswordField.getAttribute('type') === 'password' ? 'text' : 'password';
+    confirmPasswordField.setAttribute('type', type);
+    toggleConfirmPassword.classList.toggle('fa-eye-slash');
+    toggleConfirmPassword.classList.toggle('fa-eye');
+});
+
+// Password Strength Validation
+passwordField.addEventListener('input', () => {
+    const passwordStrength = validatePasswordStrength(passwordField.value);
+    passwordStrengthText.textContent = passwordStrength.message;
+    passwordStrengthText.style.color = passwordStrength.isValid ? 'green' : 'red';
+});
+
+// Password Match Validation
+confirmPasswordField.addEventListener('input', () => {
+    const matchMessage = passwordField.value === confirmPasswordField.value ? 'Passwords match.' : 'Passwords do not match.';
+    passwordMatch.textContent = matchMessage;
+    passwordMatch.style.color = passwordField.value === confirmPasswordField.value ? 'green' : 'red';
+});
+
+// Password Strength Checker
+function validatePasswordStrength(password) {
+    const minLength = 8;
+    const hasUpperCase = /[A-Z]/.test(password);
+    const hasLowerCase = /[a-z]/.test(password);
+    const hasNumbers = /\d/.test(password);
+    const hasNonalphas = /\W/.test(password);
+
+    if (password.length < minLength) {
+        return { isValid: false, message: 'Password must be at least 8 characters long.' };
+    }
+    if (!hasUpperCase) {
+        return { isValid: false, message: 'Password must have at least one uppercase letter.' };
+    }
+    if (!hasLowerCase) {
+        return { isValid: false, message: 'Password must have at least one lowercase letter.' };
+    }
+    if (!hasNumbers) {
+        return { isValid: false, message: 'Password must have at least one number.' };
+    }
+    if (!hasNonalphas) {
+        return { isValid: false, message: 'Password must have at least one special character.' };
+    }
+    return { isValid: true, message: 'Strong password.' };
+}
+
+// Show Message Function
+function showMessage(element, message) {
+    element.textContent = message;
+    element.classList.add('show');
+    setTimeout(() => {
+        element.classList.remove('show');
+    }, 4000);
+}

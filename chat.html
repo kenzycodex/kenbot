@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KenBot - Chat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="chat.css">
+    <link rel="icon" href="images/KenBot-logo.png" type="image/x-icon" sizes="64x64">
+</head>
+<body>
+    <div id="main">
+        <header>
+            <h1>
+                <img src="images/KenBot-logo.png" alt="KenBot Logo" class="logo">
+                <span>Ken</span>Bot
+            </h1>                      
+        </header>
+        <div id="chat-container">
+            <div id="chat-box">
+                <div id="messages"></div>
+            </div>
+            <form id="chat-form">
+                <input type="text" id="user-input" placeholder="Type a message..." autocomplete="off">
+                <button type="submit"><i class="fas fa-paper-plane"></i></button>
+            </form>
+        </div>
+        <div id="scroll-down-icon">
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </div>
+    <!-- Load your JavaScript file -->
+    <script src="chat.js"></script>
+</body>
+</html>

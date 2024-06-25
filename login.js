@@ -34,8 +34,8 @@ loginForm.addEventListener('submit', async (e) => {
             const username = sessionStorage.getItem('username') || 'Guest';
             const profilePicFilename = sessionStorage.getItem('profilePicFilename') || './images/1.png';
 
-            // Redirect to index.html upon successful login
-            window.location.href = `index.html?username=${encodeURIComponent(username)}&profilePicFilename=${encodeURIComponent(profilePicFilename)}`;
+            // Redirect to chat.html upon successful login
+            window.location.href = `chat.html?username=${encodeURIComponent(username)}&profilePicFilename=${encodeURIComponent(profilePicFilename)}`;
         } else {
             console.error("Login failed:", responseData.error);
             showError(responseData.error);
